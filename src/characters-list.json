@@ -1,0 +1,1112 @@
+[
+  {
+    "title": "HTML Reserved Characters",
+    "description": "The following special characters are reserved in HTML. That is because these are the characters that make up the HTML language. If you use one of these characters in an article, the browser will try to interpret it as HTML. Therefore, you should use the entity name or entity number when you want to output any of these reserved characters.",
+    "items": [
+      {
+        "character": "\"",
+        "entity-number": "&#34;",
+        "entity-name": "&quot;",
+        "description": "quotation mark"
+      },
+      {
+        "character": "'",
+        "entity-number": "&#39;",
+        "entity-name": "&apos;",
+        "description": "apostrophe"
+      },
+      {
+        "character": "&",
+        "entity-number": "&#38;",
+        "entity-name": "&amp;",
+        "description": "ampersand"
+      },
+      {
+        "character": "<",
+        "entity-number": "&#60;",
+        "entity-name": "&lt;",
+        "description": "less-than"
+      },
+      {
+        "character": ">",
+        "entity-number": "&#62;",
+        "entity-name": "&gt;",
+        "description": "greater-than"
+      }
+    ]
+  },
+  {
+    "title": "General HTML Symbols",
+    "description": "",
+    "items": [
+      {
+        "character": "Œ",
+        "entity-number": "&#338;",
+        "entity-name": "&OElig;",
+        "description": "capital ligature OE"
+      },
+      {
+        "character": "œ",
+        "entity-number": "&#339;",
+        "entity-name": "&oelig;",
+        "description": "small ligature oe"
+      },
+      {
+        "character": "Š",
+        "entity-number": "&#352;",
+        "entity-name": "&Scaron;",
+        "description": "capital S with caron"
+      },
+      {
+        "character": "š",
+        "entity-number": "&#353;",
+        "entity-name": "&scaron;",
+        "description": "small S with caron"
+      },
+      {
+        "character": "Ÿ",
+        "entity-number": "&#376;",
+        "entity-name": "&Yuml;",
+        "description": "capital Y with diaeres"
+      },
+      {
+        "character": "ƒ",
+        "entity-number": "&#402;",
+        "entity-name": "&fnof;",
+        "description": "f with hook"
+      },
+      {
+        "character": "ˆ",
+        "entity-number": "&#710;",
+        "entity-name": "&circ;",
+        "description": "modifier letter circumflex accent"
+      },
+      {
+        "character": "˜",
+        "entity-number": "&#732;",
+        "entity-name": "&tilde;",
+        "description": "small tilde"
+      },
+      {
+        "character": " ",
+        "entity-number": "&#8194;",
+        "entity-name": "&ensp;",
+        "description": "en space"
+      },
+      {
+        "character": " ",
+        "entity-number": "&#8195;",
+        "entity-name": "&emsp;",
+        "description": "em space"
+      },
+      {
+        "character": " ",
+        "entity-number": "&#8201;",
+        "entity-name": "&thinsp;",
+        "description": "thin space"
+      },
+      {
+        "character": "‌",
+        "entity-number": "&#8204;",
+        "entity-name": "&zwnj;",
+        "description": "zero width non-joiner"
+      },
+      {
+        "character": "‍",
+        "entity-number": "&#8205;",
+        "entity-name": "&zwj;",
+        "description": "zero width joiner"
+      },
+      {
+        "character": "‎",
+        "entity-number": "&#8206;",
+        "entity-name": "&lrm;",
+        "description": "left-to-right mark"
+      },
+      {
+        "character": "‏",
+        "entity-number": "&#8207;",
+        "entity-name": "&rlm;",
+        "description": "right-to-left mark"
+      },
+      {
+        "character": "–",
+        "entity-number": "&#8211;",
+        "entity-name": "&ndash;",
+        "description": "en dash"
+      },
+      {
+        "character": "—",
+        "entity-number": "&#8212;",
+        "entity-name": "&mdash;",
+        "description": "em dash"
+      },
+      {
+        "character": "‘",
+        "entity-number": "&#8216;",
+        "entity-name": "&lsquo;",
+        "description": "left single quotation mark"
+      },
+      {
+        "character": "’",
+        "entity-number": "&#8217;",
+        "entity-name": "&rsquo;",
+        "description": "right single quotation mark"
+      },
+      {
+        "character": "‚",
+        "entity-number": "&#8218;",
+        "entity-name": "&sbquo;",
+        "description": "single low-9 quotation mark"
+      },
+      {
+        "character": "“",
+        "entity-number": "&#8220;",
+        "entity-name": "&ldquo;",
+        "description": "left double quotation mark"
+      },
+      {
+        "character": "”",
+        "entity-number": "&#8221;",
+        "entity-name": "&rdquo;",
+        "description": "right double quotation mark"
+      },
+      {
+        "character": "„",
+        "entity-number": "&#8222;",
+        "entity-name": "&bdquo;",
+        "description": "double low-9 quotation mark"
+      },
+      {
+        "character": "†",
+        "entity-number": "&#8224;",
+        "entity-name": "&dagger;",
+        "description": "dagger"
+      },
+      {
+        "character": "‡",
+        "entity-number": "&#8225;",
+        "entity-name": "&Dagger;",
+        "description": "double dagger"
+      },
+      {
+        "character": "•",
+        "entity-number": "&#8226;",
+        "entity-name": "&bull;",
+        "description": "bullet"
+      },
+      {
+        "character": "…",
+        "entity-number": "&#8230;",
+        "entity-name": "&hellip;",
+        "description": "horizontal ellipsis"
+      },
+      {
+        "character": "‰",
+        "entity-number": "&#8240;",
+        "entity-name": "&permil;",
+        "description": "per mille"
+      },
+      {
+        "character": "′",
+        "entity-number": "&#8242;",
+        "entity-name": "&prime;",
+        "description": "minutes"
+      },
+      {
+        "character": "″",
+        "entity-number": "&#8243;",
+        "entity-name": "&Prime;",
+        "description": "seconds"
+      },
+      {
+        "character": "‹",
+        "entity-number": "&#8249;",
+        "entity-name": "&lsaquo;",
+        "description": "single left angle quotation"
+      },
+      {
+        "character": "›",
+        "entity-number": "&#8250;",
+        "entity-name": "&rsaquo;",
+        "description": "single right angle quotation"
+      },
+      {
+        "character": "‾",
+        "entity-number": "&#8254;",
+        "entity-name": "&oline;",
+        "description": "overline"
+      },
+      {
+        "character": "€",
+        "entity-number": "&#8364;",
+        "entity-name": "&euro;",
+        "description": "euro"
+      },
+      {
+        "character": "™",
+        "entity-number": "&#8482;",
+        "entity-name": "&trade;",
+        "description": "trademark"
+      },
+      {
+        "character": "←",
+        "entity-number": "&#8592;",
+        "entity-name": "&larr;",
+        "description": "left arrow"
+      },
+      {
+        "character": "↑",
+        "entity-number": "&#8593;",
+        "entity-name": "&uarr;",
+        "description": "up arrow"
+      },
+      {
+        "character": "→",
+        "entity-number": "&#8594;",
+        "entity-name": "&rarr;",
+        "description": "right arrow"
+      },
+      {
+        "character": "↓",
+        "entity-number": "&#8595;",
+        "entity-name": "&darr;",
+        "description": "down arrow"
+      },
+      {
+        "character": "↔",
+        "entity-number": "&#8596;",
+        "entity-name": "&harr;",
+        "description": "left right arrow"
+      },
+      {
+        "character": "↵",
+        "entity-number": "&#8629;",
+        "entity-name": "&crarr;",
+        "description": "carriage return arrow"
+      },
+      {
+        "character": "⌈",
+        "entity-number": "&#8968;",
+        "entity-name": "&lceil;",
+        "description": "left ceiling"
+      },
+      {
+        "character": "⌉",
+        "entity-number": "&#8969;",
+        "entity-name": "&rceil;",
+        "description": "right ceiling"
+      },
+      {
+        "character": "⌊",
+        "entity-number": "&#8970;",
+        "entity-name": "&lfloor;",
+        "description": "left floor"
+      },
+      {
+        "character": "⌋",
+        "entity-number": "&#8971;",
+        "entity-name": "&rfloor;",
+        "description": "right floor"
+      },
+      {
+        "character": "◊",
+        "entity-number": "&#9674;",
+        "entity-name": "&loz;",
+        "description": "lozenge"
+      },
+      {
+        "character": "♠",
+        "entity-number": "&#9824;",
+        "entity-name": "&spades;",
+        "description": "spade"
+      },
+      {
+        "character": "♣",
+        "entity-number": "&#9827;",
+        "entity-name": "&clubs;",
+        "description": "club"
+      },
+      {
+        "character": "♥",
+        "entity-number": "&#9829;",
+        "entity-name": "&hearts;",
+        "description": "heart"
+      },
+      {
+        "character": "♦",
+        "entity-number": "&#9830;",
+        "entity-name": "&diams;",
+        "description": "diamond"
+      }
+    ]
+  },
+  {
+    "title": "Mathematical Symbols",
+    "description": "",
+    "items": [
+      {
+        "character": "∀",
+        "entity-number": "&#8704;",
+        "entity-name": "&forall;",
+        "description": "for all"
+      },
+      {
+        "character": "∂",
+        "entity-number": "&#8706;",
+        "entity-name": "&part;",
+        "description": "part"
+      },
+      {
+        "character": "∃",
+        "entity-number": "&#8707;",
+        "entity-name": "&exist;",
+        "description": "exists"
+      },
+      {
+        "character": "∅",
+        "entity-number": "&#8709;",
+        "entity-name": "&empty;",
+        "description": "empty"
+      },
+      {
+        "character": "∇",
+        "entity-number": "&#8711;",
+        "entity-name": "&nabla;",
+        "description": "nabla"
+      },
+      {
+        "character": "∈",
+        "entity-number": "&#8712;",
+        "entity-name": "&isin;",
+        "description": "isin"
+      },
+      {
+        "character": "∉",
+        "entity-number": "&#8713;",
+        "entity-name": "&notin;",
+        "description": "notin"
+      },
+      {
+        "character": "∋",
+        "entity-number": "&#8715;",
+        "entity-name": "&ni;",
+        "description": "ni"
+      },
+      {
+        "character": "∏",
+        "entity-number": "&#8719;",
+        "entity-name": "&prod;",
+        "description": "prod"
+      },
+      {
+        "character": "∑",
+        "entity-number": "&#8721;",
+        "entity-name": "&sum;",
+        "description": "sum"
+      },
+      {
+        "character": "−",
+        "entity-number": "&#8722;",
+        "entity-name": "&minus;",
+        "description": "minus"
+      },
+      {
+        "character": "∗",
+        "entity-number": "&#8727;",
+        "entity-name": "&lowast;",
+        "description": "lowast"
+      },
+      {
+        "character": "√",
+        "entity-number": "&#8730;",
+        "entity-name": "&radic;",
+        "description": "square root"
+      },
+      {
+        "character": "∝",
+        "entity-number": "&#8733;",
+        "entity-name": "&prop;",
+        "description": "proportional to"
+      },
+      {
+        "character": "∞",
+        "entity-number": "&#8734;",
+        "entity-name": "&infin;",
+        "description": "infinity"
+      },
+      {
+        "character": "∠",
+        "entity-number": "&#8736;",
+        "entity-name": "&ang;",
+        "description": "angle"
+      },
+      {
+        "character": "∧",
+        "entity-number": "&#8743;",
+        "entity-name": "&and;",
+        "description": "and"
+      },
+      {
+        "character": "∨",
+        "entity-number": "&#8744;",
+        "entity-name": "&or;",
+        "description": "or"
+      },
+      {
+        "character": "∩",
+        "entity-number": "&#8745;",
+        "entity-name": "&cap;",
+        "description": "cap"
+      },
+      {
+        "character": "∪",
+        "entity-number": "&#8746;",
+        "entity-name": "&cup;",
+        "description": "cup"
+      },
+      {
+        "character": "∫",
+        "entity-number": "&#8747;",
+        "entity-name": "&int;",
+        "description": "integral"
+      },
+      {
+        "character": "∴",
+        "entity-number": "&#8756;",
+        "entity-name": "&there4;",
+        "description": "therefore"
+      },
+      {
+        "character": "∼",
+        "entity-number": "&#8764;",
+        "entity-name": "&sim;",
+        "description": "similar to"
+      },
+      {
+        "character": "≅",
+        "entity-number": "&#8773;",
+        "entity-name": "&cong;",
+        "description": "congruent to"
+      },
+      {
+        "character": "≈",
+        "entity-number": "&#8776;",
+        "entity-name": "&asymp;",
+        "description": "almost equal"
+      },
+      {
+        "character": "≠",
+        "entity-number": "&#8800;",
+        "entity-name": "&ne;",
+        "description": "not equal"
+      },
+      {
+        "character": "≡",
+        "entity-number": "&#8801;",
+        "entity-name": "&equiv;",
+        "description": "equivalent"
+      },
+      {
+        "character": "≤",
+        "entity-number": "&#8804;",
+        "entity-name": "&le;",
+        "description": "less or equal"
+      },
+      {
+        "character": "≥",
+        "entity-number": "&#8805;",
+        "entity-name": "&ge;",
+        "description": "greater or equal"
+      },
+      {
+        "character": "⊂",
+        "entity-number": "&#8834;",
+        "entity-name": "&sub;",
+        "description": "subset of"
+      },
+      {
+        "character": "⊃",
+        "entity-number": "&#8835;",
+        "entity-name": "&sup;",
+        "description": "superset of"
+      },
+      {
+        "character": "⊄",
+        "entity-number": "&#8836;",
+        "entity-name": "&nsub;",
+        "description": "not subset of"
+      },
+      {
+        "character": "⊆",
+        "entity-number": "&#8838;",
+        "entity-name": "&sube;",
+        "description": "subset or equal"
+      },
+      {
+        "character": "⊇",
+        "entity-number": "&#8839;",
+        "entity-name": "&supe;",
+        "description": "superset or equal"
+      },
+      {
+        "character": "⊕",
+        "entity-number": "&#8853;",
+        "entity-name": "&oplus;",
+        "description": "circled plus"
+      },
+      {
+        "character": "⊗",
+        "entity-number": "&#8855;",
+        "entity-name": "&otimes;",
+        "description": "circled times"
+      },
+      {
+        "character": "⊥",
+        "entity-number": "&#8869;",
+        "entity-name": "&perp;",
+        "description": "perpendicular"
+      },
+      {
+        "character": "⋅",
+        "entity-number": "&#8901;",
+        "entity-name": "&sdot;",
+        "description": "dot operator"
+      }
+    ]
+  },
+  {
+    "title": "Greek Characters",
+    "description": "",
+    "items": [
+      {
+        "character": "Α",
+        "entity-number": "&#913;",
+        "entity-name": "&Alpha;",
+        "description": "Alpha"
+      },
+      {
+        "character": "Β",
+        "entity-number": "&#914;",
+        "entity-name": "&Beta;",
+        "description": "Beta"
+      },
+      {
+        "character": "Γ",
+        "entity-number": "&#915;",
+        "entity-name": "&Gamma;",
+        "description": "Gamma"
+      },
+      {
+        "character": "Δ",
+        "entity-number": "&#916;",
+        "entity-name": "&Delta;",
+        "description": "Delta"
+      },
+      {
+        "character": "Ε",
+        "entity-number": "&#917;",
+        "entity-name": "&Epsilon;",
+        "description": "Epsilon"
+      },
+      {
+        "character": "Ζ",
+        "entity-number": "&#918;",
+        "entity-name": "&Zeta;",
+        "description": "Zeta"
+      },
+      {
+        "character": "Η",
+        "entity-number": "&#919;",
+        "entity-name": "&Eta;",
+        "description": "Eta"
+      },
+      {
+        "character": "Θ",
+        "entity-number": "&#920;",
+        "entity-name": "&Theta;",
+        "description": "Theta"
+      },
+      {
+        "character": "Ι",
+        "entity-number": "&#921;",
+        "entity-name": "&Iota;",
+        "description": "Iota"
+      },
+      {
+        "character": "Κ",
+        "entity-number": "&#922;",
+        "entity-name": "&Kappa;",
+        "description": "Kappa"
+      },
+      {
+        "character": "Λ",
+        "entity-number": "&#923;",
+        "entity-name": "&Lambda;",
+        "description": "Lambda"
+      },
+      {
+        "character": "Μ",
+        "entity-number": "&#924;",
+        "entity-name": "&Mu;",
+        "description": "Mu"
+      },
+      {
+        "character": "Ν",
+        "entity-number": "&#925;",
+        "entity-name": "&Nu;",
+        "description": "Nu"
+      },
+      {
+        "character": "Ξ",
+        "entity-number": "&#926;",
+        "entity-name": "&Xi;",
+        "description": "Xi"
+      },
+      {
+        "character": "Ο",
+        "entity-number": "&#927;",
+        "entity-name": "&Omicron;",
+        "description": "Omicron"
+      },
+      {
+        "character": "Π",
+        "entity-number": "&#928;",
+        "entity-name": "&Pi;",
+        "description": "Pi"
+      },
+      {
+        "character": "Ρ",
+        "entity-number": "&#929;",
+        "entity-name": "&Rho;",
+        "description": "Rho"
+      },
+      {
+        "character": "",
+        "entity-number": "undefined",
+        "entity-name": "",
+        "description": "Sigmaf"
+      },
+      {
+        "character": "Σ",
+        "entity-number": "&#931;",
+        "entity-name": "&Sigma;",
+        "description": "Sigma"
+      },
+      {
+        "character": "Τ",
+        "entity-number": "&#932;",
+        "entity-name": "&Tau;",
+        "description": "Tau"
+      },
+      {
+        "character": "Υ",
+        "entity-number": "&#933;",
+        "entity-name": "&Upsilon;",
+        "description": "Upsilon"
+      },
+      {
+        "character": "Φ",
+        "entity-number": "&#934;",
+        "entity-name": "&Phi;",
+        "description": "Phi"
+      },
+      {
+        "character": "Χ",
+        "entity-number": "&#935;",
+        "entity-name": "&Chi;",
+        "description": "Chi"
+      },
+      {
+        "character": "Ψ",
+        "entity-number": "&#936;",
+        "entity-name": "&Psi;",
+        "description": "Psi"
+      },
+      {
+        "character": "Ω",
+        "entity-number": "&#937;",
+        "entity-name": "&Omega;",
+        "description": "Omega"
+      },
+      {
+        "character": "α",
+        "entity-number": "&#945;",
+        "entity-name": "&alpha;",
+        "description": "alpha"
+      },
+      {
+        "character": "β",
+        "entity-number": "&#946;",
+        "entity-name": "&beta;",
+        "description": "beta"
+      },
+      {
+        "character": "γ",
+        "entity-number": "&#947;",
+        "entity-name": "&gamma;",
+        "description": "gamma"
+      },
+      {
+        "character": "δ",
+        "entity-number": "&#948;",
+        "entity-name": "&delta;",
+        "description": "delta"
+      },
+      {
+        "character": "ε",
+        "entity-number": "&#949;",
+        "entity-name": "&epsilon;",
+        "description": "epsilon"
+      },
+      {
+        "character": "ζ",
+        "entity-number": "&#950;",
+        "entity-name": "&zeta;",
+        "description": "zeta"
+      },
+      {
+        "character": "η",
+        "entity-number": "&#951;",
+        "entity-name": "&eta;",
+        "description": "eta"
+      },
+      {
+        "character": "θ",
+        "entity-number": "&#952;",
+        "entity-name": "&theta;",
+        "description": "theta"
+      },
+      {
+        "character": "ι",
+        "entity-number": "&#953;",
+        "entity-name": "&iota;",
+        "description": "iota"
+      },
+      {
+        "character": "κ",
+        "entity-number": "&#954;",
+        "entity-name": "&kappa;",
+        "description": "kappa"
+      },
+      {
+        "character": "λ",
+        "entity-number": "&#955;",
+        "entity-name": "&lambda;",
+        "description": "lambda"
+      },
+      {
+        "character": "μ",
+        "entity-number": "&#956;",
+        "entity-name": "&mu;",
+        "description": "mu"
+      },
+      {
+        "character": "ν",
+        "entity-number": "&#957;",
+        "entity-name": "&nu;",
+        "description": "nu"
+      },
+      {
+        "character": "ξ",
+        "entity-number": "&#958;",
+        "entity-name": "&xi;",
+        "description": "xi"
+      },
+      {
+        "character": "ο",
+        "entity-number": "&#959;",
+        "entity-name": "&omicron;",
+        "description": "omicron"
+      },
+      {
+        "character": "π",
+        "entity-number": "&#960;",
+        "entity-name": "&pi;",
+        "description": "pi"
+      },
+      {
+        "character": "ρ",
+        "entity-number": "&#961;",
+        "entity-name": "&rho;",
+        "description": "rho"
+      },
+      {
+        "character": "ς",
+        "entity-number": "&#962;",
+        "entity-name": "&sigmaf;",
+        "description": "sigmaf"
+      },
+      {
+        "character": "σ",
+        "entity-number": "&#963;",
+        "entity-name": "&sigma;",
+        "description": "sigma"
+      },
+      {
+        "character": "τ",
+        "entity-number": "&#964;",
+        "entity-name": "&tau;",
+        "description": "tau"
+      },
+      {
+        "character": "υ",
+        "entity-number": "&#965;",
+        "entity-name": "&upsilon;",
+        "description": "upsilon"
+      },
+      {
+        "character": "φ",
+        "entity-number": "&#966;",
+        "entity-name": "&phi;",
+        "description": "phi"
+      },
+      {
+        "character": "χ",
+        "entity-number": "&#967;",
+        "entity-name": "&chi;",
+        "description": "chi"
+      },
+      {
+        "character": "ψ",
+        "entity-number": "&#968;",
+        "entity-name": "&psi;",
+        "description": "psi"
+      },
+      {
+        "character": "ω",
+        "entity-number": "&#969;",
+        "entity-name": "&omega;",
+        "description": "omega"
+      },
+      {
+        "character": "ϑ",
+        "entity-number": "&#977;",
+        "entity-name": "&thetasym;",
+        "description": "theta symbol"
+      },
+      {
+        "character": "ϒ",
+        "entity-number": "&#978;",
+        "entity-name": "&upsih;",
+        "description": "upsilon symbol"
+      },
+      {
+        "character": "ϖ",
+        "entity-number": "&#982;",
+        "entity-name": "&piv;",
+        "description": "pi symbol"
+      }
+    ]
+  },
+  {
+    "title": "ISO 8859-1 Symbols",
+    "description": "The following table contains ISO 8859-1 symbols that you might find useful when coding web pages.",
+    "items": [
+      {
+        "character": " ",
+        "entity-number": "&#160;",
+        "entity-name": "&nbsp;",
+        "description": "non-breaking space"
+      },
+      {
+        "character": "¡",
+        "entity-number": "&#161;",
+        "entity-name": "&iexcl;",
+        "description": "inverted exclamation mark"
+      },
+      {
+        "character": "¢",
+        "entity-number": "&#162;",
+        "entity-name": "&cent;",
+        "description": "cent"
+      },
+      {
+        "character": "£",
+        "entity-number": "&#163;",
+        "entity-name": "&pound;",
+        "description": "pound"
+      },
+      {
+        "character": "¤",
+        "entity-number": "&#164;",
+        "entity-name": "&curren;",
+        "description": "currency"
+      },
+      {
+        "character": "¥",
+        "entity-number": "&#165;",
+        "entity-name": "&yen;",
+        "description": "yen"
+      },
+      {
+        "character": "¦",
+        "entity-number": "&#166;",
+        "entity-name": "&brvbar;",
+        "description": "broken vertical bar"
+      },
+      {
+        "character": "§",
+        "entity-number": "&#167;",
+        "entity-name": "&sect;",
+        "description": "section"
+      },
+      {
+        "character": "¨",
+        "entity-number": "&#168;",
+        "entity-name": "&uml;",
+        "description": "spacing diaeresis"
+      },
+      {
+        "character": "©",
+        "entity-number": "&#169;",
+        "entity-name": "&copy;",
+        "description": "copyright"
+      },
+      {
+        "character": "ª",
+        "entity-number": "&#170;",
+        "entity-name": "&ordf;",
+        "description": "feminine ordinal indicator"
+      },
+      {
+        "character": "«",
+        "entity-number": "&#171;",
+        "entity-name": "&laquo;",
+        "description": "angle quotation mark (left)"
+      },
+      {
+        "character": "¬",
+        "entity-number": "&#172;",
+        "entity-name": "&not;",
+        "description": "negation"
+      },
+      {
+        "character": "­",
+        "entity-number": "&#173;",
+        "entity-name": "&shy;",
+        "description": "soft hyphen"
+      },
+      {
+        "character": "®",
+        "entity-number": "&#174;",
+        "entity-name": "&reg;",
+        "description": "registered trademark"
+      },
+      {
+        "character": "¯",
+        "entity-number": "&#175;",
+        "entity-name": "&macr;",
+        "description": "spacing macron"
+      },
+      {
+        "character": "°",
+        "entity-number": "&#176;",
+        "entity-name": "&deg;",
+        "description": "degree"
+      },
+      {
+        "character": "±",
+        "entity-number": "&#177;",
+        "entity-name": "&plusmn;",
+        "description": "plus-or-minus "
+      },
+      {
+        "character": "²",
+        "entity-number": "&#178;",
+        "entity-name": "&sup2;",
+        "description": "superscript 2"
+      },
+      {
+        "character": "³",
+        "entity-number": "&#179;",
+        "entity-name": "&sup3;",
+        "description": "superscript 3"
+      },
+      {
+        "character": "´",
+        "entity-number": "&#180;",
+        "entity-name": "&acute;",
+        "description": "spacing acute"
+      },
+      {
+        "character": "µ",
+        "entity-number": "&#181;",
+        "entity-name": "&micro;",
+        "description": "micro"
+      },
+      {
+        "character": "¶",
+        "entity-number": "&#182;",
+        "entity-name": "&para;",
+        "description": "paragraph"
+      },
+      {
+        "character": "·",
+        "entity-number": "&#183;",
+        "entity-name": "&middot;",
+        "description": "middle dot"
+      },
+      {
+        "character": "¸",
+        "entity-number": "&#184;",
+        "entity-name": "&cedil;",
+        "description": "spacing cedilla"
+      },
+      {
+        "character": "¹",
+        "entity-number": "&#185;",
+        "entity-name": "&sup1;",
+        "description": "superscript 1"
+      },
+      {
+        "character": "º",
+        "entity-number": "&#186;",
+        "entity-name": "&ordm;",
+        "description": "masculine ordinal indicator"
+      },
+      {
+        "character": "»",
+        "entity-number": "&#187;",
+        "entity-name": "&raquo;",
+        "description": "angle quotation mark (right)"
+      },
+      {
+        "character": "¼",
+        "entity-number": "&#188;",
+        "entity-name": "&frac14;",
+        "description": "fraction 1/4"
+      },
+      {
+        "character": "½",
+        "entity-number": "&#189;",
+        "entity-name": "&frac12;",
+        "description": "fraction 1/2"
+      },
+      {
+        "character": "¾",
+        "entity-number": "&#190;",
+        "entity-name": "&frac34;",
+        "description": "fraction 3/4"
+      },
+      {
+        "character": "¿",
+        "entity-number": "&#191;",
+        "entity-name": "&iquest;",
+        "description": "inverted question mark"
+      },
+      {
+        "character": "×",
+        "entity-number": "&#215;",
+        "entity-name": "&times;",
+        "description": "multiplication"
+      },
+      {
+        "character": "÷",
+        "entity-number": "&#247;",
+        "entity-name": "&divide;",
+        "description": "division"
+      }
+    ]
+  }
+]
